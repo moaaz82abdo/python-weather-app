@@ -1,2 +1,3 @@
-install requirments
+install requirments then 
+
 run server.py
